@@ -1,6 +1,6 @@
 # Spring-and-MongoDb
 Illustration of CRUD operations with Mongo
 
-#Prerequisite
+# Prerequisite
 Ensure you have mongoDb running in your computer.
 
